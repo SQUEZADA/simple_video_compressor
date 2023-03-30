@@ -1,3 +1,4 @@
+# you will need to run "brew install ffmpeg" to install ffmpeg and pip install ffmpeg-python
 import ffmpeg
 import os
 import pathlib
