@@ -1,2 +1,2 @@
-# simple_video_compressor
+# simple video compressor
 simple video compressor
